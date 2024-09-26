@@ -1,0 +1,29 @@
+#helo{
+
+color: blueviolet;
+text-shadow: 3px 3px 5px;
+border-bottom: 1px white;
+border-top: 1px rgb(150, 8, 8);
+font-family: 'Courier New', Courier, monospace;
+font-size: 50px;
+}
+.shashi{
+    color: blueviolet;
+}
+#img1{
+float: left;
+
+}
+#img2{
+    float: right;
+    
+    }
+    body{
+      
+     
+        background-image: url("pexels-photo-2224861.jpeg ");
+        background-attachment: fixed;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
